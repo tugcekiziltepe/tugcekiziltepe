@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am senior computer engineering student at Hacettepe University. 
+
+🔭 I’m currently working on sing language production, computer vision and natural language processing. 
+
+📫 How to reach me: Send an e-mail to tugcekiziltepe@gmail.com
+
 <!--
 **tugcekiziltepe/tugcekiziltepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
