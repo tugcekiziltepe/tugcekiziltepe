@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am senior computer engineering student at Hacettepe University. 
+I am a computer engineering graduate from Hacettepe University, specializing in computer vision. Currently, I work as a computer vision engineer. 
 
 🔭 I’m currently working on sing language production, computer vision and natural language processing. 
 
